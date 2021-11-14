@@ -1,0 +1,17 @@
+#wrapper {
+    display: inline-block;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#options {
+    display: flex;
+    column-gap: 50px;
+}
+
+#convertButton {
+    margin-top: 25px;
+    width: 100%;
+}
